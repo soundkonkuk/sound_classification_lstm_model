@@ -1,5 +1,5 @@
 # model
-1. data augmentation 진행 사항
+1. data augmentation
 
    ✔ White noise
    
